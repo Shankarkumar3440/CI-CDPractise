@@ -1,3 +1,3 @@
 export function hello(){
-    return "Robot 2.0 Activate"
+    return "Robot 3.0 Activate"
 }
